@@ -40,6 +40,11 @@ ul {
         position: absolute;
         left: 23%;
         right: 17%;
+
+        &_toggle {
+            position: absolute;
+            visibility: hidden;
+        }
     }
 
     &__menu-list{

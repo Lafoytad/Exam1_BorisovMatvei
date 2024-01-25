@@ -39,6 +39,10 @@ ul {
   left: 23%;
   right: 17%;
 }
+.header__menu_toggle {
+  position: absolute;
+  visibility: hidden;
+}
 .header__menu-list {
   display: flex;
 }
