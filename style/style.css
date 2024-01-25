@@ -459,15 +459,28 @@ ul {
   width: 250px;
   height: 250px;
   border-radius: 100%;
-  border: 6px solid #7EB693;
+  position: relative;
+}
+.testimonial__content-row-item-border::before {
+  position: absolute;
+  content: "";
+  display: block;
+  border-radius: 50%;
+  top: -5px;
+  left: -5px;
+  bottom: -5px;
+  right: -5px;
+  background: #7EB693;
+  z-index: 1;
 }
 .testimonial__content-row-item {
   width: 240px;
   height: 240px;
   background-color: #F1F1F1;
   border-radius: 100%;
-  margin-left: 5px;
-  margin-top: 5px;
+  border: 5px solid #fff;
+  position: relative;
+  z-index: 3;
 }
 .testimonial__content-row-item-0 {
   position: relative;

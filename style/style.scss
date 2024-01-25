@@ -530,7 +530,19 @@ ul {
         width: 250px;
         height: 250px;
         border-radius: 100%;
-        border: 6px solid #7EB693;
+        position: relative;
+        &::before {
+            position: absolute;
+            content: '';
+            display: block;
+            border-radius: 50%;
+            top: -5px;
+            left: -5px;
+            bottom: -5px;
+            right: -5px;
+            background: #7EB693;
+            z-index: 1;
+        }
     }
 
     &__content-row-item {
@@ -538,8 +550,9 @@ ul {
         height: 240px;
         background-color: #F1F1F1;
         border-radius: 100%;
-        margin-left: 5px;
-        margin-top: 5px;
+        border: 5px solid #fff;
+        position: relative;
+        z-index: 3;
     }
 
     &__content-row-item-0 {
