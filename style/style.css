@@ -28,6 +28,7 @@ ul {
   display: flex;
   align-items: center;
   max-width: 1380px;
+  width: 95%;
   min-height: 72px;
 }
 .header__logo {
@@ -434,6 +435,7 @@ ul {
   font-weight: 400;
   color: #525C60;
   max-width: 900px;
+  width: 90%;
   margin: 0 auto 23px auto;
 }
 .testimonial__content-header-title-2 {
@@ -449,6 +451,7 @@ ul {
   color: #525C60;
 }
 .testimonial__content-row {
+  width: 95%;
   margin: 0 auto;
   max-width: 1104px;
   max-height: 250px;

@@ -28,6 +28,7 @@ ul {
         display: flex;
         align-items: center;
         max-width: 1380px;
+        width: 95%;
         min-height: 72px;
     }
     
@@ -501,6 +502,7 @@ ul {
         font-weight: 400;
         color: #525C60;
         max-width: 900px;
+        width: 90%;
         margin: 0 auto 23px auto;
     }
 
@@ -519,6 +521,7 @@ ul {
     }
 
     &__content-row {
+        width: 95%;
         margin: 0 auto;
         max-width: 1104px;
         max-height: 250px;
