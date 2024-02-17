@@ -15,7 +15,7 @@ ul {
 .yellowtail {
   font-family: "Yellowtail", cursive;
   font-size: 36px;
-  color: #7EB693;
+  color: #7eb693;
 }
 
 .header {
@@ -54,7 +54,7 @@ ul {
   font-family: "Roboto", sans-serif;
   font-size: 19px;
   padding: 5px 2px;
-  color: #274C5B;
+  color: #274c5b;
 }
 .header__menu-item:first-of-type {
   margin-left: 0px;
@@ -63,27 +63,27 @@ ul {
   margin-left: 60px;
 }
 .header__menu-item_green a {
-  color: #7EB693;
+  color: #7eb693;
 }
 .header__cart {
   position: absolute;
   right: 0%;
   width: 159px;
   height: 70px;
-  border: 1px solid #D4D4D4;
+  border: 1px solid #d4d4d4;
   border-radius: 28.96px;
   display: flex;
   align-items: center;
-  background-color: #D9D9D9;
+  background-color: #d9d9d9;
   filter: drop-shadow(0 4px 2px rgba(0, 0, 0, 0.25));
 }
 .header__cart p {
-  color: #274C5B;
+  color: #274c5b;
 }
 .header__cart-content {
   width: 56px;
   height: 56px;
-  background-color: #274C5B;
+  background-color: #274c5b;
   border-radius: 50%;
   margin-left: 10px;
 }
@@ -122,7 +122,7 @@ ul {
   max-width: 241px;
   font-size: 36px;
   font-family: "Yellowtail", cursive;
-  color: #7EB693;
+  color: #7eb693;
 }
 .welcome__text {
   margin-top: 13px;
@@ -130,7 +130,7 @@ ul {
   font-size: 70px;
   font-weight: bold;
   font-family: "Roboto", sans-serif;
-  color: #274C5B;
+  color: #274c5b;
 }
 .welcome__button {
   margin-top: 32px;
@@ -143,7 +143,7 @@ ul {
   font-weight: 400;
 }
 .welcome__button p {
-  color: #274C5B;
+  color: #274c5b;
   top: 50%;
   margin-top: -13px;
   position: absolute;
@@ -194,13 +194,13 @@ ul {
   margin-left: 56px;
 }
 .frame-1__subtitle-2 {
-  color: #274C5B;
+  color: #274c5b;
 }
 
 .about {
   width: 100%;
   min-height: 1006px;
-  background-color: #F9F8F8;
+  background-color: #f9f8f8;
   margin-bottom: 120px;
 }
 .about__content {
@@ -227,7 +227,7 @@ ul {
   font-family: "Roboto", sans-serif;
   font-size: 45px;
   font-weight: bold;
-  color: #274C5B;
+  color: #274c5b;
   width: 521px;
   margin-bottom: 25px;
 }
@@ -235,7 +235,7 @@ ul {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
   font-weight: 400;
-  color: #525C60;
+  color: #525c60;
   width: 670px;
   margin-bottom: 64px;
 }
@@ -249,7 +249,7 @@ ul {
 .about__column-title-2 {
   font-family: "Roboto", sans-serif;
   font-size: 25px;
-  color: #274C5B;
+  color: #274c5b;
   font-weight: 400;
   width: 225px;
   margin-bottom: 10px;
@@ -258,7 +258,7 @@ ul {
 .about__column-text-3 {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
-  color: #525C60;
+  color: #525c60;
   font-weight: 400;
   width: 520px;
   padding-left: 120px;
@@ -310,7 +310,7 @@ ul {
   font-family: "Roboto", sans-serif;
   font-size: 45px;
   font-weight: bold;
-  color: #274C5B;
+  color: #274c5b;
 }
 .organic__wrapper {
   display: grid;
@@ -324,7 +324,7 @@ ul {
 .organic__wrapper-block-1 {
   width: 447px;
   height: 590px;
-  background-color: #F9F8F8;
+  background-color: #f9f8f8;
   border-radius: 29px;
 }
 .organic__wrapper-content {
@@ -340,8 +340,8 @@ ul {
 .organic__wrapper-up p {
   width: 100px;
   border-radius: 8px;
-  color: #FFFFFF;
-  background-color: #274C5B;
+  color: #ffffff;
+  background-color: #274c5b;
   padding: 12px 20px;
   font-family: "Open Sans", sans-serif;
   font-size: 15px;
@@ -353,8 +353,8 @@ ul {
 .organic__wrapper-text {
   width: 387px;
   padding-bottom: 20px;
-  color: #274C5B;
-  border-bottom: 1px solid #D4D4D4;
+  color: #274c5b;
+  border-bottom: 1px solid #d4d4d4;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 22px;
@@ -376,12 +376,12 @@ ul {
   text-decoration: line-through;
   font-size: 17px;
   font-weight: 400;
-  color: #B8B8B8;
+  color: #b8b8b8;
 }
 .organic__wrapper-price-2 {
   font-size: 18px;
   font-weight: bold;
-  color: #274C5B;
+  color: #274c5b;
   margin-left: 15px;
 }
 
@@ -405,13 +405,13 @@ ul {
   margin: 0 auto;
   max-width: 966px;
   height: 618px;
-  border-bottom: 2px solid #E0E0E0;
+  border-bottom: 2px solid #e0e0e0;
   margin-bottom: 100px;
 }
 .testimonial__content-header-subtitle {
   font-family: "Roboto", sans-serif;
   font-weight: bold;
-  color: #274C5B;
+  color: #274c5b;
   font-size: 45px;
   margin-bottom: 60px;
 }
@@ -433,7 +433,7 @@ ul {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
   font-weight: 400;
-  color: #525C60;
+  color: #525c60;
   max-width: 900px;
   width: 90%;
   margin: 0 auto 23px auto;
@@ -442,13 +442,13 @@ ul {
   font-family: "Roboto", sans-serif;
   font-weight: bold;
   font-size: 26px;
-  color: #274C5B;
+  color: #274c5b;
 }
 .testimonial__content-header-subtitle-2 {
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
   font-weight: 400;
-  color: #525C60;
+  color: #525c60;
 }
 .testimonial__content-row {
   width: 95%;
@@ -462,12 +462,12 @@ ul {
   width: 250px;
   height: 250px;
   border-radius: 100%;
-  border: 6px solid #7EB693;
+  border: 6px solid #7eb693;
 }
 .testimonial__content-row-item {
   width: 240px;
   height: 240px;
-  background-color: #F1F1F1;
+  background-color: #f1f1f1;
   border-radius: 100%;
   margin-left: 5px;
   margin-top: 5px;
@@ -484,17 +484,17 @@ ul {
   font-family: "Roboto", sans-serif;
   font-weight: bold;
   font-size: 42px;
-  color: #274C5B;
+  color: #274c5b;
 }
 .testimonial__content-row-item-2 {
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
   font-size: 18px;
-  color: #274C5B;
+  color: #274c5b;
 }
 
 .offer {
-  background-color: #274C5B;
+  background-color: #274c5b;
   width: 100%;
 }
 .offer__content {
@@ -529,7 +529,7 @@ ul {
   font-weight: 400;
 }
 .offer__header-button p {
-  color: #274C5B;
+  color: #274c5b;
   top: 50%;
   margin-top: -13px;
   position: absolute;
@@ -547,7 +547,7 @@ ul {
 .offer__wrapper-block-1 {
   width: 447px;
   height: 590px;
-  background-color: #F9F8F8;
+  background-color: #f9f8f8;
   border-radius: 29px;
 }
 .offer__wrapper-content {
@@ -563,8 +563,8 @@ ul {
 .offer__wrapper-up p {
   width: 100px;
   border-radius: 8px;
-  color: #FFFFFF;
-  background-color: #274C5B;
+  color: #ffffff;
+  background-color: #274c5b;
   padding: 12px 20px;
   font-family: "Open Sans", sans-serif;
   font-size: 15px;
@@ -576,8 +576,8 @@ ul {
 .offer__wrapper-text {
   width: 387px;
   padding-bottom: 20px;
-  color: #274C5B;
-  border-bottom: 1px solid #D4D4D4;
+  color: #274c5b;
+  border-bottom: 1px solid #d4d4d4;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 22px;
@@ -599,12 +599,12 @@ ul {
   text-decoration: line-through;
   font-size: 17px;
   font-weight: 400;
-  color: #B8B8B8;
+  color: #b8b8b8;
 }
 .offer__wrapper-price-2 {
   font-size: 18px;
   font-weight: bold;
-  color: #274C5B;
+  color: #274c5b;
   margin-left: 15px;
 }
 
@@ -621,7 +621,7 @@ ul {
 .eco__content {
   position: absolute;
   right: 60px;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   margin-left: -70px;
   margin-top: 40px;
   margin-bottom: 40px;
@@ -635,7 +635,7 @@ ul {
 }
 .eco__title {
   font-family: "Roboto", sans-serif;
-  color: #274C5B;
+  color: #274c5b;
   font-size: 44px;
   font-weight: bold;
   margin-bottom: 40px;
@@ -643,14 +643,14 @@ ul {
 }
 .eco__subtitle {
   font-family: "Roboto", sans-serif;
-  color: #274C5B;
+  color: #274c5b;
   font-size: 23px;
   font-weight: bold;
   margin-bottom: 15px;
 }
 .eco__text {
   font-family: "Open Sans", sans-serif;
-  color: #525C60;
+  color: #525c60;
   font-size: 18px;
   font-weight: 400;
   margin-bottom: 20px;
@@ -661,7 +661,7 @@ ul {
 .frame-2 {
   padding: 135px 0;
   width: 100%;
-  background-color: #EFF6F1;
+  background-color: #eff6f1;
 }
 .frame-2__content {
   margin: 0 auto;
@@ -673,6 +673,7 @@ ul {
   justify-content: space-between;
 }
 .frame-2__cart-1 {
+  border-radius: 10px;
   width: 460px;
   height: 580px;
   background-image: url(../image/09_Frame-2/background_01.png);
@@ -681,20 +682,22 @@ ul {
   display: inline-block;
   margin-left: 85px;
   margin-top: 240px;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   font-family: "Roboto", sans-serif;
   font-size: 25px;
   font-weight: bold;
-  color: #274C5B;
+  color: #274c5b;
   padding: 30px 70px;
   border-radius: 15px;
 }
 .frame-2__cart-2 {
+  border-radius: 10px;
   width: 460px;
   height: 580px;
   background-image: url(../image/09_Frame-2/background_02.png);
 }
 .frame-2__cart-3 {
+  border-radius: 10px;
   width: 460px;
   height: 580px;
   background-image: url(../image/09_Frame-2/background_03.png);
@@ -738,11 +741,11 @@ ul {
   width: 290px;
   height: 32px;
   font-weight: 400;
-  color: #525C60;
+  color: #525c60;
   padding: 25px 30px;
   font-size: 18px;
   border-radius: 20px;
-  border: 1px solid #CCCCCC;
+  border: 1px solid #cccccc;
 }
 .subscribe__button-2 img {
   position: relative;
@@ -751,13 +754,13 @@ ul {
 }
 .subscribe__button-2 p {
   font-size: 18px;
-  color: #FFFFFF;
+  color: #ffffff;
   font-weight: bold;
   font-family: "Open Sans", sans-serif;
   display: inline;
 }
 .subscribe__submit {
-  background-color: #274C5B;
+  background-color: #274c5b;
   bottom: 10px;
   border: 0;
   border-radius: 17px;
@@ -769,7 +772,7 @@ ul {
   margin-left: 5px;
   padding: 10px 0;
   margin-left: 25px;
-  background-color: #335B6B;
+  background-color: #335b6b;
   border-radius: 50%;
 }
 
@@ -793,7 +796,7 @@ ul {
 }
 .footer__contact-title {
   font-family: "Roboto", sans-serif;
-  color: #274C5B;
+  color: #274c5b;
   font-weight: bold;
   font-size: 30px;
 }
@@ -801,22 +804,22 @@ ul {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
   font-weight: bold;
-  color: #525C60;
+  color: #525c60;
   margin-top: 35px;
 }
 .footer__contact-text {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
   font-weight: 400;
-  color: #525C60;
+  color: #525c60;
   margin-top: 5px;
 }
 .footer__organick {
   gap: 30px;
   width: 670px;
   height: 369px;
-  border-left: 1px solid #D5D5D5;
-  border-right: 1px solid #D5D5D5;
+  border-left: 1px solid #d5d5d5;
+  border-right: 1px solid #d5d5d5;
   text-align: center;
 }
 .footer__organick-logo {
@@ -830,7 +833,7 @@ ul {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
   font-weight: 400;
-  color: #525C60;
+  color: #525c60;
   margin-top: 45px;
 }
 .footer__organick-applications {
@@ -841,7 +844,7 @@ ul {
 .footer__organick-application {
   margin: 0 10px;
   border-radius: 100%;
-  background-color: #EFF6F1;
+  background-color: #eff6f1;
   width: 60px;
   height: 60px;
 }
@@ -856,7 +859,7 @@ ul {
 }
 .footer__utility-title {
   font-family: "Roboto", sans-serif;
-  color: #274C5B;
+  color: #274c5b;
   font-weight: bold;
   font-size: 30px;
   margin-bottom: 20px;
@@ -866,7 +869,7 @@ ul {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
   font-weight: 400;
-  color: #525C60;
+  color: #525c60;
   margin-bottom: 25px;
 }
 

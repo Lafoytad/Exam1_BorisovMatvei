@@ -83,7 +83,7 @@
     margin: 0 auto;
     border-left: 0px;
     border-right: 0px;
-    border-top: 1px solid #D5D5D5;
+    border-top: 1px solid #d5d5d5;
     order: 1;
   }
   .footer__utility {
@@ -224,6 +224,9 @@
     visibility: visible;
     right: 0px;
   }
+  .header__cart {
+    right: 40px;
+  }
 }
 @media screen and (max-width: 963px) {
   .welcome__background {
@@ -260,7 +263,7 @@
     max-width: 200%;
   }
   .eco__content {
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     left: 50%;
     margin-left: -350px;
     margin-bottom: 40px;
@@ -290,14 +293,14 @@
     font-size: 50px;
     font-weight: bold;
     font-family: "Roboto", sans-serif;
-    color: #274C5B;
+    color: #274c5b;
   }
   .welcome__title {
     margin-top: 119px;
     max-width: 241px;
     font-size: 36px;
     font-family: "Yellowtail", cursive;
-    color: #7EB693;
+    color: #7eb693;
   }
   .frame-1 {
     margin: 140px 0;
@@ -351,13 +354,13 @@
     width: 200px;
   }
   .frame-1__subtitle-2 {
-    color: #274C5B;
+    color: #274c5b;
   }
   .about {
     position: relative;
     width: 100%;
     min-height: 406px;
-    background-color: #F9F8F8;
+    background-color: #f9f8f8;
     margin-bottom: 0px;
   }
   .about__content {
@@ -401,7 +404,7 @@
     font-family: "Roboto", sans-serif;
     font-size: 26px;
     font-weight: bold;
-    color: #274C5B;
+    color: #274c5b;
     width: 310px;
     margin-bottom: 25px;
   }
@@ -409,7 +412,7 @@
     font-family: "Open Sans", sans-serif;
     font-size: 14px;
     font-weight: 400;
-    color: #525C60;
+    color: #525c60;
     width: 270px;
     height: 140px;
     margin-bottom: 0px;
@@ -425,7 +428,7 @@
   .about__column-title-2 {
     font-family: "Roboto", sans-serif;
     font-size: 18px;
-    color: #274C5B;
+    color: #274c5b;
     font-weight: 400;
     width: 170px;
     margin-bottom: 10px;
@@ -434,7 +437,7 @@
   .about__column-text-3 {
     font-family: "Open Sans", sans-serif;
     font-size: 11px;
-    color: #525C60;
+    color: #525c60;
     font-weight: 400;
     width: 170px;
     padding-left: 120px;
@@ -506,7 +509,7 @@
     font-size: 11px;
   }
   .offer {
-    background-color: #274C5B;
+    background-color: #274c5b;
     width: 100%;
   }
   .offer__content {
@@ -545,7 +548,7 @@
     margin-right: 20px;
   }
   .offer__header-button p {
-    color: #274C5B;
+    color: #274c5b;
     top: 50%;
     margin-top: -13px;
     position: absolute;
@@ -567,7 +570,7 @@
     margin: 0 auto;
     width: 300px;
     height: 350px;
-    background-color: #F9F8F8;
+    background-color: #f9f8f8;
     border-radius: 29px;
   }
   .offer__wrapper-block-1:last-of-type {
@@ -591,8 +594,8 @@
   .offer__wrapper-up p {
     width: 50px;
     border-radius: 8px;
-    color: #FFFFFF;
-    background-color: #274C5B;
+    color: #ffffff;
+    background-color: #274c5b;
     padding: 8px 20px;
     font-family: "Open Sans", sans-serif;
     font-size: 10px;
@@ -604,8 +607,8 @@
   .offer__wrapper-text {
     width: 220px;
     padding-bottom: 20px;
-    color: #274C5B;
-    border-bottom: 1px solid #D4D4D4;
+    color: #274c5b;
+    border-bottom: 1px solid #d4d4d4;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 22px;
@@ -627,12 +630,12 @@
     text-decoration: line-through;
     font-size: 11px;
     font-weight: 400;
-    color: #B8B8B8;
+    color: #b8b8b8;
   }
   .offer__wrapper-price-2 {
     font-size: 11px;
     font-weight: bold;
-    color: #274C5B;
+    color: #274c5b;
     margin-left: 15px;
   }
   .eco {
@@ -678,7 +681,7 @@
   .frame-2 {
     padding: 80px 0;
     width: 100%;
-    background-color: #EFF6F1;
+    background-color: #eff6f1;
   }
   .frame-2__content {
     margin: 0 auto;
@@ -699,11 +702,11 @@
     display: inline-block;
     margin-left: 40px;
     margin-top: 190px;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     font-family: "Roboto", sans-serif;
     font-size: 15px;
     font-weight: bold;
-    color: #274C5B;
+    color: #274c5b;
     padding: 18px 50px;
     border-radius: 15px;
   }
@@ -763,11 +766,11 @@
     width: 100px;
     height: 15px;
     font-weight: 400;
-    color: #525C60;
+    color: #525c60;
     padding: 15px 20px;
     font-size: 18px;
     border-radius: 20px;
-    border: 1px solid #CCCCCC;
+    border: 1px solid #cccccc;
   }
   .subscribe__button-2 img {
     position: relative;
@@ -776,13 +779,13 @@
   }
   .subscribe__button-2 p {
     font-size: 13px;
-    color: #FFFFFF;
+    color: #ffffff;
     font-weight: bold;
     font-family: "Open Sans", sans-serif;
     display: inline;
   }
   .subscribe__submit {
-    background-color: #274C5B;
+    background-color: #274c5b;
     bottom: 10px;
     border: 0;
     border-radius: 17px;
@@ -795,7 +798,7 @@
     margin-left: 5px;
     padding: 5px 0;
     margin-left: 5px;
-    background-color: #335B6B;
+    background-color: #335b6b;
     border-radius: 50%;
   }
 }
@@ -824,7 +827,7 @@
     font-family: "Roboto", sans-serif;
     font-size: 45px;
     font-weight: bold;
-    color: #274C5B;
+    color: #274c5b;
   }
   .organic__wrapper {
     display: grid;
@@ -840,7 +843,7 @@
     margin: 0 auto;
     width: 247px;
     height: 390px;
-    background-color: #F9F8F8;
+    background-color: #f9f8f8;
     border-radius: 29px;
   }
   .organic__wrapper-content {
@@ -859,8 +862,8 @@
   .organic__wrapper-up p {
     width: 60px;
     border-radius: 8px;
-    color: #FFFFFF;
-    background-color: #274C5B;
+    color: #ffffff;
+    background-color: #274c5b;
     padding: 12px 20px;
     font-family: "Open Sans", sans-serif;
     font-size: 11px;
@@ -872,8 +875,8 @@
   .organic__wrapper-text {
     width: 230px;
     padding-bottom: 20px;
-    color: #274C5B;
-    border-bottom: 1px solid #D4D4D4;
+    color: #274c5b;
+    border-bottom: 1px solid #d4d4d4;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 22px;
@@ -895,12 +898,12 @@
     text-decoration: line-through;
     font-size: 11px;
     font-weight: 400;
-    color: #B8B8B8;
+    color: #b8b8b8;
   }
   .organic__wrapper-price-2 {
     font-size: 11px;
     font-weight: bold;
-    color: #274C5B;
+    color: #274c5b;
     margin-left: 15px;
   }
 }
@@ -926,7 +929,7 @@
   }
   .footer__contact-title {
     font-family: "Roboto", sans-serif;
-    color: #274C5B;
+    color: #274c5b;
     font-weight: bold;
     font-size: 30px;
   }
@@ -934,14 +937,14 @@
     font-family: "Open Sans", sans-serif;
     font-size: 18px;
     font-weight: bold;
-    color: #525C60;
+    color: #525c60;
     margin-top: 35px;
   }
   .footer__contact-text {
     font-family: "Open Sans", sans-serif;
     font-size: 18px;
     font-weight: 400;
-    color: #525C60;
+    color: #525c60;
     margin-top: 5px;
   }
   .footer__organick {
@@ -952,7 +955,7 @@
     margin: 0 auto;
     border-left: 0px;
     border-right: 0px;
-    border-top: 1px solid #D5D5D5;
+    border-top: 1px solid #d5d5d5;
     order: 1;
   }
   .footer__organick-logo {
@@ -966,7 +969,7 @@
     font-family: "Open Sans", sans-serif;
     font-size: 18px;
     font-weight: 400;
-    color: #525C60;
+    color: #525c60;
     margin-top: 45px;
   }
   .footer__organick-applications {
@@ -977,7 +980,7 @@
   .footer__organick-application {
     margin: 0 10px;
     border-radius: 100%;
-    background-color: #EFF6F1;
+    background-color: #eff6f1;
     width: 60px;
     height: 60px;
   }
@@ -993,7 +996,7 @@
   }
   .footer__utility-title {
     font-family: "Roboto", sans-serif;
-    color: #274C5B;
+    color: #274c5b;
     font-weight: bold;
     font-size: 30px;
     margin-bottom: 20px;
@@ -1003,11 +1006,11 @@
     font-family: "Open Sans", sans-serif;
     font-size: 18px;
     font-weight: 400;
-    color: #525C60;
+    color: #525c60;
     margin-bottom: 25px;
   }
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 428px) {
   .header {
     margin: 40px 0 100px 0;
     max-width: 100%;
